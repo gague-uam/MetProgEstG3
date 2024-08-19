@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AreaCirculo",
+    "\\AreaCirculo\\AreaCirculo",
+    "\\AumentarSalario",
+    "\\AumentarSalario\\AumentarSalario",
+    "\\Suma",
+    "\\Suma\\Suma"
+  ],
+  "SelectedNode": "\\AumentarSalario\\AumentarSalario\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
